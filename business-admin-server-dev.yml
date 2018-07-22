@@ -41,7 +41,7 @@ sharding:
       ds:
         type: com.zaxxer.hikari.HikariDataSource
         driver-class-name: com.mysql.jdbc.Driver
-        username: apollo
+        username: root
         password: Zfliyt7bNyN11Zfliyt7bNyN$
         jdbc-url: jdbc:mysql://127.0.0.1:3306/apollo-cloud?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
     config:
